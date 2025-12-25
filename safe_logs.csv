@@ -1,0 +1,6 @@
+Protocol,Flow Duration,Total Fwd Packets,Total Backward Packets,Total Length of Fwd Packets,Total Length of Bwd Packets,Fwd Packet Length Mean,Bwd Packet Length Mean,Flow Bytes/s,Flow Packets/s,Init_Win_bytes_forward,Active Mean,Idle Mean,Inbound
+17,120,2,0,500,0,250,0,3000,0.5,1024,0,100000,1
+17,95,2,0,480,0,240,0,2800,0.4,1024,0,120000,1
+17,150,3,1,520,40,260,40,3200,0.6,1024,0,110000,1
+17,130,2,0,490,0,245,0,2900,0.5,1024,0,115000,1
+17,140,3,1,510,45,255,45,3100,0.6,1024,0,105000,1
