@@ -15,8 +15,8 @@ Check out the live app here: [CyberSentinel on Streamlit](https://cybersentinal.
 ## 🛠️ Tech Stack
 - **Frontend/Hosting:** [Streamlit](https://streamlit.io/)
 - **Backend:** Python
-- **APIs:** NVD (CVE API), [Add any others you use, e.g., Shodan, VirusTotal]
-- **Libraries:** Pandas, Requests, BeautifulSoup4, Scapy (if used)
+- **APIs:** NVD (CVE API)
+- **Libraries:** Pandas, Requests, BeautifulSoup4, Scapy
 
 ## 📂 Project Structure
 ```text
