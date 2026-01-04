@@ -3,7 +3,7 @@
 CyberSentinel is a comprehensive cybersecurity dashboard and utility tool built with **Streamlit**. It is designed to provide users with a centralized interface for vulnerability scanning, security auditing, and real-time threat analysis.
 
 ## 🚀 Live Demo
-Check out the live app here: [CyberSentinel on Streamlit](https://cybersentinal.streamlit.app/)
+Check out the live app here: [cybersentinel-beta on Streamlit](https://cybersentinel-beta.streamlit.app/)
 
 ## ✨ Key Features
 - **Vulnerability Scanner:** Detect common web vulnerabilities like SQL Injection, XSS, and CSRF.
@@ -13,7 +13,7 @@ Check out the live app here: [CyberSentinel on Streamlit](https://cybersentinal.
 - **AI-Powered Assistance:** Integration with AI models to answer complex cybersecurity queries.
 
 ## 🛠️ Tech Stack
-- **Frontend/Hosting:** [Streamlit](https://streamlit.io/)
+- **Frontend/Hosting:** Streamlit
 - **Backend:** Python
 - **APIs:** NVD (CVE API)
 - **Libraries:** Pandas, Requests, BeautifulSoup4, Scapy
